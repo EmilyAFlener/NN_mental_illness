@@ -21,8 +21,8 @@ For this project, I will use the [Brittanica Encyclopedia definition of the scie
 
 ### Observation
 
-Deep nearning neural networks mirror the human brain and have erros and flaws.
-The human brains natural flaws  manifest as mental illnesses, neoroligal disorders or developmental disorders.
+Deep learning neural networks mirror the human brain and have erros and flaws.
+The human brains natural flaws manifest as mental illnesses, neorological disorders or developmental disorders.
 
 ### Question
 
@@ -30,11 +30,11 @@ If deep learning neural networks mimic the brain, do their errors also mimic men
 
 ### Experiementation
 
-Test by mapping mental illness mechanisms and behaviors to corresponding deep neural network errors and visualizations.
+Test by mapping mental illness mechanisms and behaviors to corresponding deep neural network functional and and visualizations errors.
 
 ### Analysis
 
-Will know if there are similarities between the two if a deep learning neural network error mirros a mental illness symptom.
+Will know if there are similarities between the two if a deep learning neural network error mirrors a mental illness's symptoms.
 
 ### Conclusion
 
