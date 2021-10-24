@@ -17,7 +17,7 @@ The origins of mental illness is complicated and multi-disciplniary thus making 
 
 ## Scientific Method
 
-For this project, I will use the [Brittanica Encyclopedia definition of the scientific method](https://www.britannica.com/science/scientific-method) to organize the exploration in a quasi scientific way.
+For this project, I will use the [Brittanica Encyclopedia definition of the scientific method](https://www.britannica.com/science/scientific-method) to organize my exploration in a quasi scientific way.
 
 ### Observation
 
