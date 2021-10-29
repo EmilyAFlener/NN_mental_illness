@@ -4,6 +4,8 @@ As an individual with a mental illness lived experience, the mechanisms that man
 
 # Overview
 
+I recommend exploring the repo Wiki to establish understand the foundational elements of this project.
+
 ### Observation
 
 Deep learning neural networks mirror the human brain and have erros and flaws.
@@ -13,7 +15,7 @@ The human brains natural flaws manifest as mental illnesses, neorological disord
 
 If deep learning neural networks mimic the brain, do their errors also mimic mental illness?
 
-### Experiementation
+### Experimentation
 
 Test by mapping mental illness mechanisms and behaviors to corresponding deep neural network functional and and visualizations errors.
 
