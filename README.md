@@ -4,7 +4,7 @@ As an individual with a mental illness lived experience, the mechanisms that man
 
 # Overview
 
-I recommend exploring the repo Wiki to establish understand the foundational elements of this project.
+I recommend exploring the repo Wiki to establish the foundational elements of this project.
 
 ### Observation
 
