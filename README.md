@@ -9,7 +9,7 @@ I recommend exploring the repo Wiki to establish the foundational elements of th
 ### Observation
 
 Deep learning neural networks mirror the human brain and have erros and flaws.
-The human brains natural flaws manifest as mental illnesses, neorological disorders or developmental disorders.
+The human brain's natural flaws manifest as mental illnesses, neorological disorders or developmental disorders.
 
 ### Question
 
@@ -17,7 +17,7 @@ If deep learning neural networks mimic the brain, do their errors also mimic men
 
 ### Experimentation
 
-Test by mapping mental illness mechanisms and behaviors to corresponding deep neural network functional and and visualizations errors.
+Test by mapping mental illness mechanisms and behaviors to corresponding deep neural network functional and visualizations errors.
 
 ### Analysis
 
